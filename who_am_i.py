@@ -1,2 +1,2 @@
-name = 'dev'
-print('this is a dev branch!')
+name = 'test'
+print('this is a test branch!')
